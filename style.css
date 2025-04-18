@@ -1,7 +1,8 @@
 body { 
     background-image: url('images/omega.jpeg');
     background-size: cover;
-    background_position: center;
+    background-position: center;
+    colour: red;
    
     
     
