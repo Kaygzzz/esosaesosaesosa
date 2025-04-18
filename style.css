@@ -2,13 +2,11 @@ body {
     background-image: url('images/omega.jpeg');
     background-size: cover;
     background-position: center;
-    colour: red;
-   
-    
-    
-    font-family: Arial,sans-serif;
+    color: red;
+    font-family: Arial, sans-serif;
     text-align: center;
-    padding: 50px; 
+    padding: 50px;
+
 }
 h1 {
     color: red;
