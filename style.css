@@ -1,8 +1,11 @@
-<style>
-  body {
-    background-image: url('omega.jpeg');
-    background-size: cover;
-    background-position: center;
+body {
+  background-image: url('omega.jpeg');
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: red;
+  padding: 50px;
   }
 
   h1 {
